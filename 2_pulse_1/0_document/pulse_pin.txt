@@ -1,0 +1,7 @@
+Good  -> PB10
+Ready  -> PB2
+ID(+) -> PA0
+ID(-) -> PB3
+ANGLE(+) -> PA1
+ANGLE(-) -> PA2
+
